@@ -1,2 +1,3 @@
 # odin-recipes
-A small site to make recipes
+
+This is a project to make a small site for recipes
